@@ -1,0 +1,26 @@
+{
+  "name": "nodeflow-cms",
+  "version": "1.0.0",
+  "description": "A simple headless cms written in node.js to manage website content",  
+  "main": "index.js",  
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/maleeshagimshan98/nodeflow-cms"
+  },
+  "dependencies": {
+    "koa": "^2.14.2"
+  },
+  "devDependencies": {
+    "jest": "^29.5.0"
+  },
+  "scripts": {
+    "test": "jest",
+    "dev": "npm run dev",
+    "build": "npm run build"
+  },
+  "author": {
+    "name": "Maleesha Gimshan",
+    "url": "https://www.github.com/maleeshagimshan98"
+  },  
+  "license": "MIT"
+}
